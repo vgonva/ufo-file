@@ -1,3 +1,4 @@
+//Hola
 use sightings
 
 db.ufos.insert([{"City":"1-25 corridor (southbound, 65 miles north NM border)","State":"CO","Ufo":[{"Posted":"1\/28\/99","Duration":"30-45 minutes","Shape":"Disk","Summary":"This event was seen my many-the objects were clear and distinct-and moved independent of each other-if left who all saw this overwhelme","Date \/ Time":"4\/3\/98 21:30"}]}])
