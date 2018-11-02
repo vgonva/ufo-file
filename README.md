@@ -1,4 +1,3 @@
 # ufo-file
 
-hi how are u
-ola k ase
+no sql processing data
